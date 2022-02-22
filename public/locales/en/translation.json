@@ -1,0 +1,216 @@
+{
+   "header": {
+      "menu-item-1": "Our mission",
+      "menu-item-2": "Key features",
+      "menu-item-3": "Our tokenomic",
+      "menu-item-4": "FAQ",
+      "menu-item-5": "Roadmap",
+      "button-presale-text": "Connect wallet"
+   },
+   "block-1": {
+      "title-1": "The first data-stacking cryptocyrrency",
+      "button-text": "Presale Token",
+      "title-2": "What is Project202?",
+      "text-1": "The infrastructure of the P202 project is blockchain 3.0 based on the Proof-Of-Stake algorithm with its own decentralized data centers located on different continents. The free part of the equipment capacity that is not used for the cryptocurrency infrastructure can be rented on our P202 Servers platform with payment with P202 tokens.",
+      "text-2": "Transaction processing and the work of the entire infrastructure will take place on server equipment, which allows you to increase the transaction processing speed to 100,000 thousand/sec and higher."
+   },
+   "block-2": {
+      "title": "Our mission",
+      "text-1": "Business model with real server infrastructure and business",
+      "text-2": "Due to the fact that when building a server architecture, high-deficit components are not used (the structure is based on a high-performance bundle of drives, RAM and processors), building servers and including them in the P202 network will not be associated with the problem of supplying other components, such as video cards and other graphics accelerators",
+      "text-3": "Thus, when connected to the network, the validator will not face problems of procurement, installation and configuration, and high liquidity will allow it to use previously idle capacities of its equipment",
+      "text-4": "We host servers in key nodes of the network",
+      "text-5": "This allows the maximum number of people to have the opportunity to join our network with their equipment and get guaranteed earnings at the expense of their capacities",
+      "text-6": "By 2023, we plan to connect more than 4,000 users, by 2024 - to increase this number to 28,000"
+   },
+   "block-3": {
+      "title": "Key features",
+      "subtitle": "We want to ensure the value of this idea in the digital embodiment of the token",
+      "card-1": {
+         "title": "Low fees and transaction latency",
+         "description": "A network of distributed data centers in highly loaded network nodes"
+      },
+      "card-2": {
+         "title": "Protection of coin holders and validators",
+         "description": "The distribution of tokens does not imply an additional issue"
+      },
+      "card-3": {
+         "title": "Stable growing shortage of tokens",
+         "description": "Burning toxins when used, which makes the remaining coins more valuable"
+      },
+      "card-4": {
+         "title": "We don't invent bicycles",
+         "description": "The Solana-based blockchain is a fork of the most optimized blockchain in the world"
+      }
+   },
+   "block-4": {
+      "title": "Our tokenomic",
+      "subtitle": "We distribute all tokens during the first 4 years of the blockchain operation",
+      "card-text-1": { 
+         "text": "The main share of tokens will be issued for infrastructure maintenance, exchanges and transactions, and payment of remuneration to validators. These tokens will belong to the blockchain smart contract",
+         "percent": 35
+      },
+      "card-text-2": {
+         "text": "These tokens will belong to a smart contract and will be available for circulation on exchanges from the very beginning",
+         "percent": 25
+      },
+      "card-text-3": {
+         "text": "Tokens of the team and founders.",
+         "percent": 15
+      },
+      "card-text-4": {
+         "text": "Marketing", 
+         "percent": 12
+      },
+      "card-text-5": {
+         "text": "Advisors",
+         "percent": 8
+      },
+      "card-text-6": {
+         "text": "Airdrop",
+         "percent": 5
+      },
+      "card-text-7": {
+         "text": "",
+         "percent": ""
+      },
+      "card-text-8": {
+         "text": "",
+         "percent": ""
+      },
+      "graph": {
+         "title": "Unfreezing tokens in shares by stages",
+         "text-1": {
+            "count": "Q4",
+            "year": "2022",
+            "row-1": "Defrosting of 10% of the team's tokens.",
+            "row-2": "Defrosting of 1/4 of the team's tokens."
+         },
+         "text-2": {
+            "count": "Q2",
+            "year": "2023",
+            "row-1": "Defrosting of 25% of the team's tokens.",
+            "row-2": "Defrosting of 2/4 of the team's tokens."
+         },
+         "text-3": {
+            "count": "Q4",
+            "year": "2023",
+            "row-1": "Defrosting of 50% of the team's tokens.",
+            "row-2": "Defrosting of 3/4 of the team's tokens."
+         },
+         "text-4": {
+            "count": "Q1",
+            "year": "2024",
+            "row-1": "Defrosting of 75% of the team's tokens.",
+            "row-2": "Defrosting of 4/4 of the team's tokens."
+         }
+      },
+      "text-bottom": "In addition to issuing its own cryptocurrency, the project has a registered company and plans to earn income in fiat currencies.",
+      "list": {
+         "elem-1": "Rent of high-speed dedicated servers",
+         "elem-2": "High-speed cloud solutions",
+         "elem-3": "BIG DATA Processing Service",
+         "elem-4": "Infrastructure for AI processing",
+         "elem-5": "Saas services for Computer Vision",
+         "elem-6": "The latest hardware for metaverse deployment",
+         "elem-7": "Infrastructure for online broadcasts in 4K and 8K"
+      }
+   },
+   "block-5": {
+      "title": "Question - Answer",
+      "elem-1": {
+         "question": "What is the P202 blockchain built on?",
+         "answer": "The blockchain works on the Proof-of-Stake proof-of-Ownership algorithm with the company's own improvements to speed up transaction processing and reduce the block size"
+      },
+      "elem-2": {
+         "question": "Who are Generators?",
+         "answer": "Generators form the basis of the P202 network. By processing transactions and participating in consensus, each generator helps the Project202 network become the most extensive blockchain 3.0 in the world."
+      },
+      "elem-3": {
+         "question": "Why does the project need its own datacenters and servers?",
+         "answer": "Any technological project needs its own datacenters and servers to create and test it products and maintain infrastructure security due to location in different countries and different jurisdictions, thereby we neutralize the risks associated with location under one legislatively subordinate jurisdiction, which may become hostile to the crypt."
+      },
+      "elem-4": {
+         "question": "How will the servers be rented?",
+         "answer": "The company Project 202 creates a platform for renting servers around the world in just 2 clicks. The first click is the purchase of our token The second click is to pay for the server of the configuration you need with P202 tokens. You instantly get access to a high-speed powerful workstation (server)"
+      },
+      "elem-5": {
+         "question": "What is already ready?",
+         "answer": "At the moment, 1.0 vP 202 Wallet is ready with basic functionality and the ability to store, exchange, transfer and own tokens and cryptocurrency. There is a functionality to store NFT tokens and paintings. Our wallet is perfectly protected and has several tools to protect your funds, which are local (available only to you on your client). The keys of your crypto wallet are also stored on your device and we do not have access to your keys or recovery phrase, so securely store and protect it."
+      },
+      "elem-6": {
+         "question": "Why do we need bridges with other blocks?",
+         "answer": "Bridges or migration of tokens and cryptocurrencies from other blockchains are needed primarily for the possibility of transferring data and accounts from outdated, loaded blockchains to another for transactions and transfers, as well as for compatibility of the blockchain with new versions of current networks and tokens."
+      },
+      "elem-7": {
+         "question": "Why does your project need P202D,E,F Stablecoins?",
+         "answer": "A stablecoin is a mandatory unit with a fixed value in any market situation and in order to be able to develop payment for goods or services, we need a stablecoin. You can always be calm that the cryptocurrency exchange rate has not collapsed as it happens during market manipulation, with our P202D stablecoin you can be calm because it is secured with real assets in a physical bank and under any circumstances you can exchange it for a similar unit."
+      }
+   },
+   "block-6": {
+      "title": "Roadmap",
+      "card-text-1": "Start of development Release of the token in the Balance Smart Chain network",
+      "card-text-2": "Launching Test Net Writing and Launching Blockchain P202 Creating P202 Wallet",
+      "card-text-3": "Refinement of the functionality Expansion of the server test network to 100 nodes",
+      "card-text-4": "Launch of the first 200 nodes of the P202 Blockchain network Formation of capital to provide a Stablecoin",
+      "card-text-5": "Start of development of API bridges for other Blockchains Launch of Stablecoin P202$ Transfer of commission payment in stablecoin P202$",
+      "card-text-6": "Bringing Data Centers to 30. Running Main net with more than 5000 nodes",
+      "button-text": "Pesale Token"
+   },
+   "block-7": {
+      "title": "Media",
+      "card-1": {
+         "title": "Discord",
+         "description": "My cat Kitty knows how to eat cardboard and squeak when he wants to stroke. He does not like to stay at home and eat food in small packages"
+      },
+      "card-2": {
+         "title": "Twitter",
+         "description": "My cat Kitty knows how to eat cardboard and squeak when he wants to stroke. He does not like to stay at home and eat food in small packages"
+      },
+      "card-3": {
+         "title": "Youtube",
+         "description": "My cat Kitty knows how to eat cardboard and squeak when he wants to stroke. He does not like to stay at home and eat food in small packages"
+      },
+      "card-4": {
+         "title": "Discord",
+         "description": "My cat Kitty knows how to eat cardboard and squeak when he wants to stroke. He does not like to stay at home and eat food in small packages"
+      },
+      "card-5": {
+         "title": "Twitter",
+         "description": "My cat Kitty knows how to eat cardboard and squeak when he wants to stroke. He does not like to stay at home and eat food in small packages"
+      }
+   },
+   "block-8": {
+      "title": "Don't miss it. Be aware!",
+      "subtitle": "If you are an influencer in the field of blockchain, a special offer is available for you. Don't miss your chance!",
+      "input-placeholder": "Your e-mail",
+      "button-text": "Get info",
+      "sent-text": "Thanks! Your data has been sent."
+   },
+   "footer": {
+      "menu-item-1" : "Our mission",
+      "menu-item-2" : "Key features",
+      "menu-item-3" : "Our tokenomic",
+      "menu-item-4" : "FAQ",
+      "menu-item-5" : "Roadmap",
+      "button-main-text": "Presale Token",
+      "button-presale-text": "Back to main"
+   },
+   "presale-contract": {
+      "title": "Project 202 Presale",
+      "text-1": "Token Smart Contract",
+      "text-2": "Presale Smart Contract",
+      "button-text": "Connecting MetaMask to Binance Smart Chain"
+   },
+   "presale-amount": {
+      "title": "P202 Available for Presale",
+      "label-1": "Price, BNB",
+      "label-2": "P202 amount",
+      "label-3": "BNB amount",
+      "row-button-text": "max",
+      "button-text": "Buy",
+      "label-4": "Balance P202",
+      "label-5": "Balance BNB",
+      "label-6": "Address"
+   }
+}

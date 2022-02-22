@@ -1,0 +1,189 @@
+{
+   "header": {
+      "menu-item-1": "Our mission",
+      "menu-item-2": "Key features",
+      "menu-item-3": "Our tokenomic",
+      "menu-item-4": "FAQ",
+      "menu-item-5": "Roadmap",
+      "button-presale-text": "Connect wallet"
+   },
+   "block-1": {
+      "title-1": "The first data-stacking cryptocyrrency",
+      "button-text": "Presale Token",
+      "title-2": "What is Project202?",
+      "text-1": "The project's own infrastructure allows you to use the free capacity of server equipment in order to make a profit for the company, to create a reserve fund for Project 202 and provide the project with fiat funds and issue your own stablecoins P202USD, P202EUR, P202KRW, which are provided with real money in a ratio of 1 to 1.",
+      "text-2": "Storage and maintenance of equipment takes place in data centers distributed around the world, without causing such huge damage to the environment as mining at home or in an industrial way."
+   },
+   "block-2": {
+      "title": "Our mission",
+      "text-1": "Business model with real server infrastructure and business",
+      "text-2": "Due to the fact that when building a server architecture, high-deficit components are not used (the structure is based on a high-performance bundle of drives, RAM and processors), building servers and including them in the P202 network will not be associated with the problem of supplying other components, such as video cards and other graphics accelerators",
+      "text-3": "Thus, when connected to the network, the validator will not face problems of procurement, installation and configuration, and high liquidity will allow it to use previously idle capacities of its equipment",
+      "text-4": "We host servers in key nodes of the network",
+      "text-5": "This allows the maximum number of people to have the opportunity to join our network with their equipment and get guaranteed earnings at the expense of their capacities",
+      "text-6": "By 2023, we plan to connect more than 4,000 users, by 2024 - to increase this number to 28,000"
+   },
+   "block-3": {
+      "title": "Key features",
+      "subtitle": "We want to ensure the value of this idea in the digital embodiment of the token",
+      "card-1": {
+         "title": "Low fees and transaction latency",
+         "description": "A network of distributed data centers in highly loaded network nodes"
+      },
+      "card-2": {
+         "title": "Protection of coin holders and validators",
+         "description": "The distribution of tokens does not imply an additional issue"
+      },
+      "card-3": {
+         "title": "Stable growing shortage of tokens",
+         "description": "Burning toxins when used, which makes the remaining coins more valuable"
+      },
+      "card-4": {
+         "title": "We don't invent bicycles",
+         "description": "The Solana-based blockchain is a fork of the most optimized blockchain in the world"
+      }
+   },
+   "block-4": {
+      "title": "Our tokenomic",
+      "subtitle": "We distribute all tokens during the first 4 years of the blockchain operation",
+      "card-text-1": "The main share of tokens will be issued for infrastructure maintenance, exchanges and transactions, and payment of remuneration to validators. These tokens will belong to the blockchain smart contract",
+      "card-text-2": "These tokens will belong to a smart contract and will be available for circulation on exchanges from the very beginning",
+      "card-text-3": "Tokens of the team and founders.",
+      "card-text-4": "Think about what you need it for",
+      "card-text-5": "Think about what you need it for",
+      "card-text-6": "Advisors",
+      "card-text-7": "Bounty",
+      "card-text-8": "Airdrop",
+      "graph": {
+         "title": "Unfreezing tokens in shares by stages",
+         "text-1": {
+            "row-1": "Defrosting of 50% of the team's tokens.",
+            "row-2": "Defrosting of 50% of the team's tokens."
+         },
+         "text-2": {
+            "row-1": "Defrosting of 50% of the team's tokens.",
+            "row-2": "Defrosting of 50% of the team's tokens."
+         },
+         "text-3": {
+            "row-1": "Defrosting of 50% of the team's tokens.",
+            "row-2": "Defrosting of 50% of the team's tokens."
+         },
+         "text-4": {
+            "row-1": "Defrosting of 50% of the team's tokens.",
+            "row-2": "Defrosting of 50% of the team's tokens."
+         }
+      },
+      "text-bottom": "In addition to issuing its own cryptocurrency, the project has a registered company and plans to earn income in fiat currencies.",
+      "list": {
+         "elem-1": "Rent of high-speed dedicated servers",
+         "elem-2": "High-speed cloud solutions",
+         "elem-3": "BIG DATA Processing Service",
+         "elem-4": "Infrastructure for AI processing",
+         "elem-5": "Saas services for Computer Vision",
+         "elem-6": "The latest hardware for metaverse deployment",
+         "elem-7": "Infrastructure for online broadcasts in 4K and 8K"
+      }
+   },
+   "block-5": {
+      "title": "Question - Answer",
+      "elem-1": {
+         "question": "The question that you always wanted to ask, but were afraid to ask, is now being asked by Tamara Pavlovna from Nizhnevartovsk",
+         "answer": "It is a long-established fact that the reader will be distracted by the readable content of the page when viewing its layout. The point of using Lorem Ipsum is that it has a more or less normal distribution of letters, as opposed to using \"Content here, content here\", which makes it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as the default model text, and searching for \"lorem ipsum\" will open many websites that are still in their infancy."
+      },
+      "elem-2": {
+         "question": "The question that you always wanted to ask, but were afraid to ask, is now being asked by Tamara Pavlovna from Nizhnevartovsk",
+         "answer": "It is a long-established fact that the reader will be distracted by the readable content of the page when viewing its layout. The point of using Lorem Ipsum is that it has a more or less normal distribution of letters, as opposed to using \"Content here, content here\", which makes it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as the default model text, and searching for \"lorem ipsum\" will open many websites that are still in their infancy."
+      },
+      "elem-3": {
+         "question": "The question that you always wanted to ask, but were afraid to ask, is now being asked by Tamara Pavlovna from Nizhnevartovsk",
+         "answer": "It is a long-established fact that the reader will be distracted by the readable content of the page when viewing its layout. The point of using Lorem Ipsum is that it has a more or less normal distribution of letters, as opposed to using \"Content here, content here\", which makes it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as the default model text, and searching for \"lorem ipsum\" will open many websites that are still in their infancy."
+      },
+      "elem-4": {
+         "question": "The question that you always wanted to ask, but were afraid to ask, is now being asked by Tamara Pavlovna from Nizhnevartovsk",
+         "answer": "It is a long-established fact that the reader will be distracted by the readable content of the page when viewing its layout. The point of using Lorem Ipsum is that it has a more or less normal distribution of letters, as opposed to using \"Content here, content here\", which makes it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as the default model text, and searching for \"lorem ipsum\" will open many websites that are still in their infancy."
+      },
+      "elem-5": {
+         "question": "The question that you always wanted to ask, but were afraid to ask, is now being asked by Tamara Pavlovna from Nizhnevartovsk",
+         "answer": "It is a long-established fact that the reader will be distracted by the readable content of the page when viewing its layout. The point of using Lorem Ipsum is that it has a more or less normal distribution of letters, as opposed to using \"Content here, content here\", which makes it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as the default model text, and searching for \"lorem ipsum\" will open many websites that are still in their infancy."
+      },
+      "elem-6": {
+         "question": "The question that you always wanted to ask, but were afraid to ask, is now being asked by Tamara Pavlovna from Nizhnevartovsk",
+         "answer": "It is a long-established fact that the reader will be distracted by the readable content of the page when viewing its layout. The point of using Lorem Ipsum is that it has a more or less normal distribution of letters, as opposed to using \"Content here, content here\", which makes it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as the default model text, and searching for \"lorem ipsum\" will open many websites that are still in their infancy."
+      },
+      "elem-7": {
+         "question": "The question that you always wanted to ask, but were afraid to ask, is now being asked by Tamara Pavlovna from Nizhnevartovsk",
+         "answer": "It is a long-established fact that the reader will be distracted by the readable content of the page when viewing its layout. The point of using Lorem Ipsum is that it has a more or less normal distribution of letters, as opposed to using \"Content here, content here\", which makes it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as the default model text, and searching for \"lorem ipsum\" will open many websites that are still in their infancy.."
+      }
+   },
+   "block-6": {
+      "title": "Roadmap",
+      "card-text-1": "Start of development Release of the token in the Balance Smart Chain network",
+      "card-text-2": "Launching Test Net Writing and Launching Blockchain P202 Creating P202 Wallet",
+      "card-text-3": "Refinement of the functionality Expansion of the server test network to 100 nodes",
+      "card-text-4": "Launch of the first 200 nodes of the P202 Blockchain network Formation of capital to provide a Stablecoin",
+      "card-text-5": "Start of development of API bridges for other Blockchains Launch of Stablecoin P202$ Transfer of commission payment in stablecoin P202$",
+      "card-text-6": "Start of development Release of the token in the Balance Smart Chain network",
+      "card-text-7": "Launching Test Net Writing and Launching Blockchain P202 Creating P202 Wallet",
+      "card-text-8": "Refinement of the functionality Expansion of the server test network to 100 nodes",
+      "card-text-9": "Launch of the first 200 nodes of the P202 Blockchain network Formation of capital to provide a Stablecoin",
+      "card-text-10": "Launch of the first 200 nodes of the P202 Blockchain network Formation of capital to provide a Stablecoin",
+      "card-text-11": "Launch of the first 200 nodes of the P202 Blockchain network Formation of capital to provide a Stablecoin",
+      "button-text": "Pesale Token"
+   },
+   "block-7": {
+      "title": "Media",
+      "card-1": {
+         "title": "Discord",
+         "description": "My cat Kitty knows how to eat cardboard and squeak when he wants to stroke. He does not like to stay at home and eat food in small packages"
+      },
+      "card-2": {
+         "title": "Twitter",
+         "description": "My cat Kitty knows how to eat cardboard and squeak when he wants to stroke. He does not like to stay at home and eat food in small packages"
+      },
+      "card-3": {
+         "title": "Youtube",
+         "description": "My cat Kitty knows how to eat cardboard and squeak when he wants to stroke. He does not like to stay at home and eat food in small packages"
+      },
+      "card-4": {
+         "title": "Discord",
+         "description": "My cat Kitty knows how to eat cardboard and squeak when he wants to stroke. He does not like to stay at home and eat food in small packages"
+      },
+      "card-5": {
+         "title": "Twitter",
+         "description": "My cat Kitty knows how to eat cardboard and squeak when he wants to stroke. He does not like to stay at home and eat food in small packages"
+      }
+   },
+   "block-8": {
+      "title": "Don't miss it. Be aware!",
+      "subtitle": "If you are an influencer in the field of blockchain, a special offer is available for you. Don't miss your chance!",
+      "input-placeholder": "Your e-mail",
+      "button-text": "Get info",
+      "sent-text": "Thanks! Your data has been sent."
+   },
+   "footer": {
+      "menu-item-1" : "Our mission",
+      "menu-item-2" : "Key features",
+      "menu-item-3" : "Our tokenomic",
+      "menu-item-4" : "FAQ",
+      "menu-item-5" : "Roadmap",
+      "button-main-text": "Presale Token",
+      "button-presale-text": "Back to main"
+   },
+   "presale-contract": {
+      "title": "Project 202 Presale",
+      "text-1": "Token Smart Contract",
+      "text-2": "Presale Smart Contract",
+      "button-text": "Connecting MetaMask to Binance Smart Chain"
+   },
+   "presale-amount": {
+      "title": "P202 Available for Presale",
+      "label-1": "Price, BNB",
+      "label-2": "P202 amount",
+      "label-3": "BNB amount",
+      "row-button-text": "max",
+      "button-text": "Buy",
+      "label-4": "Balance P202",
+      "label-5": "Balance BNB",
+      "label-6": "Address"
+   }
+}
